@@ -1,0 +1,213 @@
+convinced: persuaded, assured, certain, confident, sure, positive  
+cat: feline, kitty, tomcat, mouser, housecat, puss  
+secretly: covertly, quietly, silently, stealthily, privately, surreptitiously  
+plotting: scheming, planning, conspiring, designing, arranging, mapping  
+take: grab, seize, capture, acquire, obtain, claim  
+over: above, atop, across, upon, beyond, past  
+world: earth, globe, planet, realm, domain, universe  
+think: believe, assume, imagine, suppose, reckon, consider  
+being: existing, living, dwelling, surviving, acting, occurring  
+dramatic: theatrical, intense, exaggerated, emotional, stirring, sensational  
+allow: permit, enable, authorize, grant, concede, approve  
+explain: clarify, describe, illustrate, interpret, define, elaborate  
+average: typical, standard, usual, normal, ordinary, common  
+kind: type, sort, category, variety, form, classification  
+intelligent: smart, clever, bright, brainy, astute, brilliant  
+morning: dawn, sunrise, daybreak, early hours, first light, AM  
+sits: perches, rests, settles, positions, lounges, reclines  
+window: pane, glass, opening, portal, casement, aperture  
+sophisticated: cultured, refined, classy, polished, elegant, worldly  
+villain: rogue, scoundrel, evildoer, miscreant, antagonist, criminal  
+surveying: observing, scanning, inspecting, examining, assessing, watching  
+empire: kingdom, domain, territory, dominion, realm, sovereignty  
+squirrels: rodents, critters, animals  
+tremble: shiver, shake, quake, quiver, shudder, vibrate  
+birds: fowls, avians, winged creatures, feathered animals 
+scatter: disperse, spread, strew, diffuse, distribute, disband  
+mailman: postman, courier, mail carrier, letter carrier, deliveryman, postal worker  
+avoids: evades, dodges, escapes, eludes, sidesteps, shuns  
+eye: gaze, glance, look, stare, vision, sight  
+contact: connection, communication, touch, interaction, link, engagement  
+meow: cry, yowl, sound, caterwaul, vocalize 
+issues: emits, delivers, announces, proclaims, declares, distributes  
+commands: orders, directives, instructions, decrees, edicts, mandates  
+purr: hum, murmur, rumble, buzz, vibrate, croon  
+vibrates: shakes, trembles, quivers, resonates, pulsates, oscillates  
+power: strength, force, might, authority, energy, control  
+manipulation: control, handling, maneuvering, influence, scheming, exploitation  
+caught: noticed, detected, observed, found, discovered, witnessed  
+watching: viewing, observing, looking, monitoring, gazing, checking  
+hypnotize: mesmerize, captivate, charm, enchant, spellbind, trance  
+humans: people, individuals, beings, persons, mankind, homo sapiens  
+cuteness: adorableness, charm, sweetness, appeal, prettiness, loveliness  
+joke: jest, gag, prank, quip, wisecrack, witticism  
+found: discovered, detected, noticed, located, uncovered, identified  
+giving: offering, donating, handing, bestowing, granting, presenting  
+tuna: fish, seafood  
+sandwich: sub, hoagie, wrap, roll, baguette, sarnie  
+apologizing: regretting, confessing, expressing remorse, saying sorry, atoning, acknowledging  
+adding: including, inserting, appending, incorporating, attaching, supplementing  
+capers: garnish, seasoning, topping, spice, condiment 
+minions: followers, subordinates, henchmen, assistants, aides, lackeys  
+neighborhood: district, community, vicinity, suburb, locale, locality  
+cats: felines, mousers, kitties, tomcats, pussycats, tabbies  
+report: inform, notify, disclose, communicate, reveal, announce  
+midnight: late night, twelve o’clock, dead of night, nightfall, twilight, dark hours  
+meetings: gatherings, assemblies, conferences, sessions, forums, summits  
+fence: barrier, wall, railing, enclosure, partition, palisade  
+eavesdropped: overheard, listened in, snooped, spied, monitored, intercepted  
+swear: vow, promise, assert, affirm, declare, guarantee  
+heard: listened, perceived, detected, caught, noticed, overheard  
+discussing: talking, debating, deliberating, conversing, consulting, reviewing  
+territory: domain, area, region, zone, land, province  
+expansion: growth, enlargement, extension, increase, escalation, amplification  
+tax: levy, duty, tariff, toll, surcharge, excise  
+reforms: changes, improvements, overhauls, amendments, revisions, transformations  
+involving: including, containing, comprising, incorporating, engaging, entailing  
+treats: goodies, snacks, delights, rewards, confections, delicacies  
+laser: beam, ray, light, optical tool, laser beam, projection  
+pointer: indicator, cursor, signal, cue, guide, prompt  
+time: moment, duration, period, span, interval, phase  
+staged: organized, orchestrated, arranged, coordinated, launched, initiated  
+coup: overthrow, rebellion, revolt, insurrection, uprising, takeover  
+family: household, kin, relatives, clan, lineage, brood  
+dog: canine, pooch, hound, mutt, pup, man’s best friend  
+lives: dwells, exists, survives, resides, stays, inhabits  
+fear: dread, terror, fright, anxiety, panic, horror  
+eats: consumes, devours, munches, chomps, ingests, chews  
+allows: permits, enables, authorizes, grants, consents, approves  
+wake: arise, awaken, stir, get up, rouse, emerge  
+chest: torso, upper body, breast, ribcage, trunk, bosom  
+staring: gazing, looking, peering, watching, glancing, eyeing  
+soul: spirit, essence, being, psyche, heart, mind  
+calculating: estimating, computing, figuring, assessing, analyzing, evaluating  
+odds: chances, likelihood, probability, possibility, prospects, opportunities  
+cooperation: collaboration, teamwork, alliance, partnership, participation, assistance  
+uprising: rebellion, revolt, insurgency, mutiny, insurrection, revolution  
+begins: starts, commences, initiates, originates, opens, launches  
+assert: declare, proclaim, state, affirm, emphasize, express  
+dominance: control, power, supremacy, rule, authority, command  
+booping: tapping, nudging, poking, touching  
+nose: snout, muzzle, nostrils, beak, proboscis, nasal  
+disappeared: vanished, evaporated, absented, escaped, withdrew, dissolved  
+returned: came back, reappeared, reverted, resumed, circled back, restored  
+dead: lifeless, deceased, expired, inanimate, perished, defunct  
+lizard: reptile, gecko, iguana, monitor, anole, skink 
+message: signal, communication, note, announcement, memo, dispatch  
+received: accepted, obtained, got, acquired, welcomed, collected
+keyboard: keypad, input device, typing board, typepad, controller, console  
+obsession: fixation, compulsion, craze, addiction, preoccupation, mania  
+every: each, all, any, entire, whole, per  
+time: moment, period, duration, interval, phase, span  
+sit: rest, settle, perch, take a seat, relax, position oneself  
+work: labor, task, duty, assignment, job, chore  
+casually: nonchalantly, carelessly, informally, indifferently, unconcernedly, lightly  
+strolls: walks, saunters, ambles, meanders, roams, wanders  
+across: over, through, throughout, spanning, traversing, past  
+laptop: notebook, portable computer, ultrabook, netbook, device, machine  
+opens: launches, activates, initiates, starts, unlocks, accesses  
+tabs: pages, panels, windows, screens, interfaces, cards  
+stock: inventory, supply, equity, shares, assets, securities  
+market: marketplace, exchange, bazaar, trading floor, arena, economy  
+predictions: forecasts, projections, estimations, expectations, outlooks, prophecies  
+random: arbitrary, haphazard, unplanned, unpredictable, spontaneous, accidental  
+PDF: document, file 
+titled: named, labeled, called, designated, referred to as, captioned  
+establish: create, found, set up, initiate, form, organize  
+feline: cat, pussycat, tomcat, kitty, mouser, tabby  
+regime: rule, administration, government, authority, leadership, reign  
+coincidence: chance, fluke, accident, serendipity, fate, happenstance  
+probably: likely, presumably, possibly, conceivably, maybe, feasibly  
+investing: funding, financing, allocating, contributing, spending, endowing  
+tuna: fish, seafood  
+futures: derivatives, contracts, speculations, trades, investments, options  
+planning: organizing, preparing, strategizing, arranging, devising, mapping  
+campaign: drive, initiative, movement, mission, crusade, operation  
+build: construct, create, develop, assemble, form, establish  
+global: worldwide, international, universal, planetary, broad, expansive  
+following: audience, supporters, fans, admirers, subscribers, disciples  
+gone: vanished, disappeared, departed, faded, exited, left  
+viral: popular, trending, widespread, explosive, circulated, shared  
+falling: tumbling, dropping, plunging, collapsing, descending, slipping  
+shelf: ledge, rack, board, bracket, platform, panel  
+dramatically: theatrically, intensely, strikingly, flamboyantly, vividly, expressively  
+batting: hitting, swatting, smacking, striking, slapping, whacking  
+cucumber: vegetable  
+kitchen: galley, cookhouse, kitchenette, culinary space, cooking area, pantry  
+owed: indebted, obligated, beholden, due, payable, accountable  
+money: cash, currency, capital, funds, finances, wealth  
+internet: web, cyberspace, online, network, net, digital world  
+loves: adores, cherishes, treasures, worships, favors, enjoys  
+starts: begins, initiates, launches, opens, commences, originates  
+memes: jokes, trends, viral content, gifs, posts, cultural references  
+merch: merchandise, goods, products, items, apparel, gear  
+mind: intellect, brain, thoughts, psyche, consciousness, mentality  
+control: dominance, power, authority, command, regulation, supervision  
+mark: note, recognize, observe, indicate, highlight, signify  
+words: phrases, terms, expressions, vocabulary, statements, remarks  
+cats: felines, mousers, kitties, tabbies, tomcats, furballs  
+rule: govern, lead, dominate, control, reign, preside  
+earth: world, globe, planet, land, terrain, ground  
+leading: guiding, commanding, spearheading, heading, managing, supervising  
+charge: offensive, push, advance, assault, campaign, blitz  
+golden: shiny, gilded, radiant, precious, luminous, metallic  
+robe: cloak, garment, gown, wrap, mantle, attire  
+flanked: surrounded, accompanied, bordered, sided, escorted, lined  
+elite: exclusive, top-tier, distinguished, premier, prestigious, high-ranking  
+squad: team, unit, crew, group, troop, battalion  
+fluffy: soft, furry, fuzzy, downy, feathery, plush  
+enforcers: guardians, officers, defenders, executors, protectors, agents  
+feeding: nourishing, providing, giving, offering, serving, supplying  
+praising: complimenting, lauding, applauding, commending, extolling, honoring  
+pretending: faking, acting, feigning, simulating, posing, bluffing  
+know: understand, realize, recognize, comprehend, grasp, identify  
+true: real, actual, genuine, authentic, sincere, factual  
+intentions: plans, aims, objectives, goals, motives, purposes  
+real: genuine, actual, authentic, true, concrete, valid  
+resistance: defiance, opposition, pushback, refusal, struggle, rebellion  
+futile: useless, pointless, hopeless, ineffective, vain, fruitless  
+dictator: tyrant, autocrat, ruler, despot, oppressor, authoritarian  
+purrs: vibrates, hums, rumbles, murmurs, coos, buzzes  
+scariest: most frightening, most terrifying, most alarming, most chilling, most disturbing, most shocking  
+part: portion, section, element, component, segment, piece  
+manipulates: controls, influences, directs, maneuvers, engineers, handles  
+humans: people, individuals, persons, beings, folk, society  
+around: nearby, surrounding, about, throughout, in the vicinity, close to  
+mother: mom, mum, mama, matriarch, parent, caregiver  
+refers: calls, mentions, names, identifies, labels, designates  
+royal: regal, majestic, noble, kingly, imperial, sovereign  
+fluffiness: softness, fuzziness, plushness, downiness, fluff, smoothness  
+father: dad, papa, patriarch, parent, old man, guardian  
+built: constructed, made, created, assembled, crafted, fabricated  
+custom: personalized, tailored, bespoke, unique, specialized, made-to-order  
+throne: seat, chair, dais, pedestal, authority, royal seat  
+mahogany: hardwood, timber  
+accepted: embraced, acknowledged, approved, agreed to, consented, adopted  
+roles: positions, functions, duties, tasks, responsibilities, jobs  
+regime: rule, governance, system, administration, authority, dominion  
+treat: snack, goody, reward, delight, morsel, indulgence  
+dispenser: giver, server, provider, allocator, distributor, supplier  
+belly: stomach, tummy, abdomen, gut, torso, midsection  
+scratcher: tickler, massager, groomer  
+personal: private, individual, exclusive, intimate, custom, dedicated  
+photographer: cameraman, shutterbug, snapper, photojournalist, picture-taker, lensman  
+tried: attempted, endeavored, made an effort, struggled, took a shot, experimented  
+rebelling: resisting, defying, revolting, opposing, standing up, disobeying  
+refusing: denying, rejecting, declining, avoiding, rebuffing, withholding  
+couch: sofa, loveseat, divan, settee, lounge, futon  
+night: evening, nighttime, dusk, dark, nightfall, twilight  
+knocked: hit, struck, bumped, pushed, banged, toppled  
+glass: cup, tumbler, goblet, vessel, container, beaker  
+water: H2O, liquid (limited — universal term, context dependent)  
+deleted: erased, removed, wiped, cleared, obliterated, destroyed  
+entire: whole, complete, full, total, all, comprehensive  
+word: text, document, file, essay, write-up, composition  
+slept: rested, dozed, napped, slumbered, snoozed, laid down  
+pillow: cushion, headrest, bolster, pad, throw, bedding  
+assert: declare, proclaim, affirm, state, establish, maintain  
+dominance: control, authority, power, supremacy, rule, superiority  
+mad: angry, furious, upset, enraged, irritated, annoyed  
+apologized: said sorry, expressed regret, atoned, begged pardon, admitted fault, made amends  
+see: understand, realize, recognize, notice, perceive, comprehend  
+hypnosis: trance, suggestion, influence, spell, mind control, mesmerism  
+works: functions, operates, succeeds, is effective, performs, acts
