@@ -1,5 +1,3 @@
-Here is a clean, professional version of the README without emojis. You can use this for your repository.
-
 # Plagiarism Detector (C++)
 
 A robust command-line tool designed to identify both exact and paraphrased plagiarism between text documents. This project was developed as part of the B.Tech Computer Science (Data Science) curriculum at MPSTME.
